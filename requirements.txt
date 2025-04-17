@@ -15,7 +15,7 @@ joblib
 types-PyYAML
 scipy
 Flask
-Flask-Core
+flask-cors
 gdown
 dagshub
 -e .

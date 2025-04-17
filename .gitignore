@@ -179,3 +179,8 @@ artifacts/*
 .dvc
 .dvcignore
 dvc.lock
+
+# Images
+*.jpg
+*.jpeg
+*.png
